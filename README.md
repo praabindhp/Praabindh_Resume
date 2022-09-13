@@ -5,6 +5,6 @@ Languages/Programs/Applications Used
 
     1. HTML5
     2. JavaScript
-    3. CSS
+    3. CSS3
     
 Hope You Would Find The Designing Elegant
